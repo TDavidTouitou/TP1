@@ -48,7 +48,7 @@
         android:id="@+id/count_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:backgroundTint="#F10A0A"
+        android:backgroundTint="@color/buttonBackground3"
         android:text="@string/count_button_text"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/random_button"

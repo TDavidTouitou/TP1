@@ -6,4 +6,5 @@
     <color name="screenBackground">#2196F3</color>
     <color name="buttonBackground">#BBDEFB</color>
     <color name="buttonBackground2">#FFFF00</color>
+    <color name="buttonBackground3">#F10A0A</color>
 </resources>
